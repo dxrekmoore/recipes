@@ -1,9 +1,10 @@
-# recipes
+# Recipes
 A simple recipes application
 
-A simple HTML recipe application
+An assignment I was tasked with doing on my journey completing The Odin Project
 
-## skills used:
+## Skills used:
+Basic semantic HTML
 
-## languages used
+## Programming Languages used:
 HTML
